@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+pdfminer.six
+pandas
+chardet
+Pillow
