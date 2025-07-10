@@ -170,7 +170,7 @@ def bygg_csv_rad(verdi_dict):
         "Petter", verdi_dict.get("kjøp_salg", ""), "", "csno", "VIDEN", kjøpsdato,
         oppgjørsdato, "", verdi_dict.get("antall", ""), salgskode, "", "ceno",
         "VidCliNOK", "", "", "", "y", verdi_dict.get("beløp", ""), "", "", "", "5", "",
-        verdi_dict.get("kurtasje", ""), "", "", "n", "", "", "n", "1", *[""] * 11, "1", "", "",
+        verdi_dict.get("kurtasje", ""), "", "n", "", "", "n", "1", *[""] * 11, "1", "", "",
         "n", "y", *[""] * 31, verdi_dict.get("bank", ""), *[""] * 25
     ]
 
